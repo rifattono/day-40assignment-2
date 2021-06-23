@@ -1,1 +1,1 @@
-# day-40assignment-2
+# class-39-assignment-with-responsive
